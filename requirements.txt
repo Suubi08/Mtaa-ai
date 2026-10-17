@@ -1,0 +1,8 @@
+streamlit
+google-genai
+python-dotenv
+scikit-learn
+pandas
+pillow
+# Optional, only for running a local model instead of the API:
+# ollama

@@ -1,0 +1,12 @@
+[
+  {"id": 1, "description": "The drain near the market has been blocked for days and water is collecting on the road.", "location": "Kasubi Market", "category": "blocked_drainage", "group": "A"},
+  {"id": 2, "description": "The drainage channel beside the market has not been cleared and the road is flooding.", "location": "near Kasubi market", "category": "blocked_drainage", "group": "A"},
+  {"id": 3, "description": "Water is collecting because the drain is blocked near the market.", "location": "Kasubi", "category": "blocked_drainage", "group": "A"},
+  {"id": 4, "description": "Rubbish has piled up at the trading centre and nobody has collected it.", "location": "Nakawa Trading Centre", "category": "uncollected_waste", "group": "B"},
+  {"id": 5, "description": "Garbage has not been collected at the trading centre for two weeks and it smells.", "location": "Nakawa trading centre", "category": "uncollected_waste", "group": "B"},
+  {"id": 6, "description": "A pothole is making the road difficult to use for boda bodas.", "location": "Bwaise Road", "category": "damaged_road", "group": "C"},
+  {"id": 7, "description": "There is a broken public tap near the trading centre.", "location": "Nakawa Trading Centre", "category": "water_point", "group": "D"},
+  {"id": 8, "description": "Open drain overflowing near the primary school, children walk through dirty water.", "location": "Ntinda", "category": "blocked_drainage", "group": "E"},
+  {"id": 9, "description": "Heap of rubbish burning near the market stalls.", "location": "Kasubi Market", "category": "uncollected_waste", "group": "F"},
+  {"id": 10, "description": "The street lights on the main road do not work.", "location": "Kawempe", "category": "other", "group": "G"}
+]
